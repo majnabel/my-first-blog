@@ -25,7 +25,8 @@ SECRET_KEY = '$1y6zg_p(t&fag^z#i43k&cb^s*l+qiilr@+9ukmb(2+y%@+%3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['majra.pythonanywhere.com',
+                 'localhost' ]
 
 
 # Application definition
